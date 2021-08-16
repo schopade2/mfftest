@@ -258,7 +258,7 @@ FOREX POINTS EARNED: $forexpointstotalall points
 <br>
 BINARY POINTS EARNED: $binarypointstotalall points
 <br>
-
+TEST TEST
 HTM;
 
 dbclose($link);
