@@ -1,1 +1,0 @@
-https://instagram.com/trading_money_machine?igshid=1nd3f7ebaldi0
